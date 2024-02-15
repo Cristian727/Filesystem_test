@@ -1,0 +1,10 @@
+{
+  "ruedas": 10,
+  "puertas": 5,
+  "tipo_motor": "electrico",
+  "marca": "ford",
+  "modelo": "fiesta"
+}
+
+//esto lo añadio el append, no lo actualiza. sirve para seguir añadiendo secuencialmente
+//{"ruedas":10,"puertas":5,"tipo_motor":"electrico","marca":"ford","modelo":"fiesta"}
